@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Art Revolution</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="STYLE.CSS">
 </head>
 <body>
@@ -131,18 +132,17 @@ if it's creative,we want it!</pre></div>
 <div class="container7">
     <h1 class="text4">Join our Creativity Journey</h1>
     <div class="social-icons">
-        <a href="https://www.facebook.com" target="_blank">
-            <img src="facebook-icon.png" alt="Facebook">
-        </a>
-        <a href="https://www.twitter.com" target="_blank">
-            <img src="twitter-icon.png" alt="Twitter">
-        </a>
-        <a href="https://www.instagram.com" target="_blank">
-            <img src="instagram-icon.png" alt="Instagram">
-        </a>
-        <a href="https://www.whatsapp.com" target="_blank">
-            <img src="whatsapp-icon.png" alt="WhatsApp">
-        </a>
+        <i class="fa-brands fa-facebook">
+        <a href="https://www.facebook.com"></a></i>
+        
+        <i class="fa-brands fa-square-x-twitter">
+        <a href="https://www.twitter.com"></a></i>
+
+        <i class="fa-brands fa-instagram">
+        <a href="https://www.instagram.com"></a></i>
+
+        <i class="fa-brands fa-whatsapp">
+        <a href="https://www.whatsapp.com"></a></i>
     </div>
     <h2>Get in Touch!</h2>
     <form action="submit_form.php" method="post">
